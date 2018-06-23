@@ -29,7 +29,7 @@ def send_mail(send_from, send_to, subject, text):
 ##            msg.attach(part)
 ##
 
-    smtp = smtplib.SMTP('smtp.arrisi.com')
+    smtp = smtplib.SMTP('smtp..com')
 #starta o tls caso necessario
     #smtp.starttls()
 #com email e senha
